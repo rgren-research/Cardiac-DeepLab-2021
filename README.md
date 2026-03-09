@@ -50,6 +50,11 @@ Motion dynamics are analyzed
 
 # Future Research Directions
 
+## next generation research direction
+<p align="center">
+  <img src="./Fig1.png" width="850">
+</p>
+
 This repository will continue to evolve by integrating state-of-the-art techniques in medical video analysis.
 Potential future upgrades include:
 1. Transformer-based Segmentation
