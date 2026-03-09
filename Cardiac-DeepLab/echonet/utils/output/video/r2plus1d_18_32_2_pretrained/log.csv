@@ -1,0 +1,41 @@
+Starting run from scratch
+Starting run from scratch
+Starting run from scratch
+Starting run from scratch
+Starting run from scratch
+Starting run from scratch
+0,train,156.94046623804095,-60.0725053646889,2436.633591413498,7460,2428087296,2898264064,2
+0,val,153.94418157898585,-482.137817706437,157.52133655548096,1288,783124480,2898264064,2
+1,train,154.6718704903019,-174.88078928096576,2314.2092792987823,7460,2428106240,2898264064,2
+1,val,151.20214303059166,-10431.765157522017,128.7718846797943,1288,783143424,2898264064,2
+2,train,154.09190696788073,-196.63918267915037,2340.1977229118347,7460,2428106240,2898264064,2
+2,val,149.32412653298388,-63.1018169437707,129.6101107597351,1288,783143424,2898264064,2
+Resuming from epoch 3
+Best validation loss 149.32412653298388 from epoch 2
+Resuming from epoch 3
+Best validation loss 149.32412653298388 from epoch 2
+Resuming from epoch 3
+Best validation loss 149.32412653298388 from epoch 2
+val (one clip) R2:   0.014 (-0.001 - 0.027)
+val (one clip) MAE:  9.34 (8.98 - 9.70)
+val (one clip) RMSE: 12.22 (11.71 - 12.71)
+Resuming from epoch 3
+Best validation loss 149.32412653298388 from epoch 2
+val (one clip) R2:   0.014 (-0.001 - 0.027)
+val (one clip) MAE:  9.34 (8.98 - 9.70)
+val (one clip) RMSE: 12.22 (11.71 - 12.71)
+Resuming from epoch 3
+Best validation loss 149.32412653298388 from epoch 2
+val (one clip) R2:   0.014 (-0.001 - 0.027)
+val (one clip) MAE:  9.34 (8.98 - 9.70)
+val (one clip) RMSE: 12.22 (11.71 - 12.71)
+Resuming from epoch 3
+Best validation loss 149.32412653298388 from epoch 2
+val (one clip) R2:   0.014 (-0.001 - 0.027)
+val (one clip) MAE:  9.34 (8.98 - 9.70)
+val (one clip) RMSE: 12.22 (11.71 - 12.71)
+Resuming from epoch 3
+Best validation loss 149.32412653298388 from epoch 2
+val (one clip) R2:   0.014 (-0.001 - 0.027)
+val (one clip) MAE:  9.34 (8.98 - 9.70)
+val (one clip) RMSE: 12.22 (11.71 - 12.71)
