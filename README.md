@@ -8,7 +8,7 @@ The project is primarily an implementation and reproduction of the research work
 EchoNet-Dynamic: A Large New Cardiac Motion Video Data Resource for Medical Machine Learning (2020).
 The goal of this repository is to reproduce the cardiac video segmentation and cardiac function estimation pipeline proposed in the original research.
 
-# Note:
+## Note:
 This repository focuses on reproducing the methodology described in the EchoNet-Dynamic paper.
 It is intended as a research engineering implementation rather than a finalized medical system.
 Future versions of this project will continue to iterate and integrate newer deep learning technologies as the field evolves.
