@@ -80,5 +80,7 @@ Swin Transformer Encoder
 Enhanced ASPP modules
 
 # License
+For technical details, please refer to the Stanford paper [EchoNet-Dynamic: a Large New Cardiac Motion Video Data Resource for Medical Machine Learning](https://echonet.github.io/dynamic/NeuroIPS_2019_ML4H%20Workshop_Paper.pdf) 
 This project is released under the MIT License.
 It is intended for research and educational purposes only and should not be used for clinical diagnosis.
+
